@@ -10,7 +10,7 @@ void main() {
         Center(
           child:
           Text('dice')
-          ,), backgroundColor: Colors.red,
+          ,), backgroundColor: Colors.blue,
       ),
       body:Dicepage(),
     ),
